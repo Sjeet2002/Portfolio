@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    margin-top: 100px;
+}
+td{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+tr:hover{
+    background-color: blue;
+}
